@@ -7,6 +7,7 @@ Proyek ini adalah hasil pengembangan ulang dari permainan kasual populer, Flappy
 
 ### Janji
 Saya **Vanisha Septiani Auliaputri** dengan **NIM 2510735** mengerjakan Tugas Praktikum 6 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
 ---
 
 ### Fitur
@@ -69,3 +70,7 @@ Program ini dibagi menjadi beberapa kelas terpisah agar kode lebih rapi dan muda
 
 ### Dokumentasi Visual
 *Silakan tonton video demo jalannya program pada direktori repositori ini:*
+
+https://github.com/user-attachments/assets/8f3fbebd-2d46-4b8d-86ba-4ff82d20b739
+
+
