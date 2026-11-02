@@ -71,6 +71,8 @@ Program ini dibagi menjadi beberapa kelas terpisah agar kode lebih rapi dan muda
 ### Dokumentasi Visual
 *Silakan tonton video demo jalannya program pada direktori repositori ini:*
 
-https://github.com/user-attachments/assets/8f3fbebd-2d46-4b8d-86ba-4ff82d20b739
+https://github.com/user-attachments/assets/b760daf9-8680-4759-a4fc-74f9b2ad554c
+
+
 
 
